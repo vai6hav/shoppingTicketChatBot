@@ -1,0 +1,57 @@
+{
+    "vaibhav": {
+        "I-phone 13": {
+            "purchase_date": "2021-10-10",
+            "price": "1000 $",
+            "description": "6.6\" Screen | 6GB RAM | 128 GB Internal Storage"
+        },
+        "HP-Probook (Laptop)": {
+            "purchase_date": "2021-09-13",
+            "price": "1500 $",
+            "description": "16.6\" Screen | 16GB RAM | 500 GB SSD | i4"
+        },
+        "MI Trimmer": {
+            "purchase_date": "2021-09-16",
+            "price": "130 $",
+            "description": "Perfect for all | 60min Backup | 1hr Charging Time"
+        }
+    },
+
+    "haseeb": {
+        "Sony headphones": {
+            "purchase_date": "2021-07-18",
+            "price": "320 $",
+            "description": "Stereo Sound Experiance | Bass Boosted | wireless"
+        },
+        "DDR4 RAM": {
+            "purchase_date": "2021-09-24",
+            "price": "140 $",
+            "description": "32GB"
+        },
+        "HP Mouse": {
+            "purchase_date": "2021-09-30",
+            "price": "9 $",
+            "description": "Suitable for all | Wireless | Optical"
+        }
+    },
+
+    "shivam": {
+        "OnePlus Earphones": {
+            "purchase_date": "2021-08-14",
+            "price": "15 $",
+            "description": "Extra Bass | 20hr Backup | wireless"
+        },
+        "Chair": {
+            "purchase_date": "2021-08-30",
+            "price": "20 $",
+            "description": "NeelKamal | Plastic | Branded"
+        },
+        "Adaptor": {
+            "purchase_date": "2021-09-17",
+            "price": "5 $",
+            "description": "35 Watt | Type C cable | Fast charging"
+        }
+    }
+
+
+}
